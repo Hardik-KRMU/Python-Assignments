@@ -1,1 +1,1 @@
-
+The Daily Calorie Tracker is a Python-based tool that helps users log their meals, calculate total and average calories, and compare their intake with a daily calorie limit. It provides instant feedback on whether the user stays within or exceeds their goal and allows saving session logs for record-keeping.
