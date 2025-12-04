@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ONE PIECE",
+    "author": "ODA",
+    "isbn": "123456",
+    "status": "available"
+  },
+  {
+    "title": "NARUTO",
+    "author": "IDK",
+    "isbn": "132456",
+    "status": "available"
+  },
+  {
+    "title": "BLEACH",
+    "author": "WHOKNOWS",
+    "isbn": "098767",
+    "status": "available"
+  },
+  {
+    "title": "BLACK CLOVER",
+    "author": "NOIDEA",
+    "isbn": "657893",
+    "status": "available"
+  }
+]
